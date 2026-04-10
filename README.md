@@ -111,7 +111,7 @@ State-space formulation:
 * Rolling window: **60 days**
 * Z-score:
   [
-  z_t = \frac{Spread_t - \mu_t}{\sigma_t}
+ $ z_t = \frac{Spread_t - \mu_t}{\sigma_t}$
   ]
 
 ### Trading Rules
@@ -198,5 +198,5 @@ After applying log transformation and stricter filtering, weaker pairs were elim
 ## 👤 Author
 
 **Kishankumar Patel**
-Master’s in Data Science & Analytics
+Master’s in Data Science & Analytics \\
 Aspiring Quantitative Analyst / Researcher
